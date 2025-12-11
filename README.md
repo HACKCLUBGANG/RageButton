@@ -15,3 +15,5 @@ Button 1A - Arduino pin 7
 Button 1B  - GND
 Buzzer + - Arduino pin 10
 Buzzer – - GND
+
+![Rage Button CAD](./cad/rb1.jpeg) 
