@@ -16,4 +16,7 @@ Button 1B  - GND
 Buzzer + - Arduino pin 10
 Buzzer – - GND
 
+![Circuit TinkerCAD](./firmware/Circuit.jpeg) 
+
+I also made a 3d model using onshape
 ![Rage Button CAD](./cad/rb1.jpeg) 
